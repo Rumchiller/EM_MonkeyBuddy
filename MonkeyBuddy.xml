@@ -434,7 +434,11 @@
                             <Anchor point="TOPLEFT" relativeTo="MonkeyBuddyQuestCheck20" relativePoint="BOTTOMLEFT" />
                         </Anchors>
                     </CheckButton>
-
+                    <CheckButton name="MonkeyBuddyQuestCheck22" inherits="MonkeyBuddyCheckButtonTemplate">
+                        <Anchors>
+                            <Anchor point="TOPLEFT" relativeTo="MonkeyBuddyQuestCheck21" relativePoint="BOTTOMLEFT" />
+                        </Anchors>
+                    </CheckButton>
 					<Button name="MonkeyBuddyQuestColour1" inherits="MonkeyBuddyQuestColourButtonTemplate">
                         <Anchors>
                             <Anchor point="TOPLEFT">

@@ -158,7 +158,11 @@ MonkeyBuddyQuest_CheckButtons[MONKEYBUDDY_QUEST_ALWAYSHEADERS] = {
 	strVar = "m_bAlwaysHeaders",
 	pSlashCommand = MonkeyQuestSlash_CmdAlwaysHeaders
 };
-
+MonkeyBuddyQuest_CheckButtons[MONKEYBUDDY_QUEST_USEQUESTLINKS] = {
+	id = 22,
+	strVar = "m_bUseQuestLinks",
+	pSlashCommand = MonkeyQuestSlash_CmdUseQuestLinks
+};
 
 
 -- this array is used to init the colour buttons

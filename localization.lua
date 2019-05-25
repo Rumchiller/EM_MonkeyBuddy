@@ -58,6 +58,7 @@ MONKEYBUDDY_QUEST_CRASHBORDER				= "Use the golden border colour";
 MONKEYBUDDY_QUEST_SHOWNOOBTIPS				= "Show helpful tooltips for Noobs";
 MONKEYBUDDY_QUEST_SHOWZONEHIGHLIGHT			= "Show quest zone highlighting";
 MONKEYBUDDY_QUEST_SHOWQUESTLEVEL			= "Show the quest levels";
+MONKEYBUDDY_QUEST_USEQUESTLINKS				= "Use quest links";
 
 
 MONKEYBUDDY_QUEST_QUESTTITLECOLOUR			= "Quest Titles";
@@ -209,6 +210,7 @@ if (GetLocale() == "deDE") then
 	MONKEYBUDDY_QUEST_SHOWNOOBTIPS		= "Zeige hilfreiche Kurzinfos f\195\188r Anf\195\164nger";
 	MONKEYBUDDY_QUEST_SHOWZONEHIGHLIGHT		= "Hebe die aktuelle Questzone hervor";
 	MONKEYBUDDY_QUEST_SHOWQUESTLEVEL		= "Zeige das Questlevel";
+	MONKEYBUDDY_QUEST_USEQUESTLINKS			= "Benutze Quest Links";
 	
 	
 	MONKEYBUDDY_QUEST_QUESTTITLECOLOUR		= "Quest-Titel";
